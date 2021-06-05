@@ -1,5 +1,6 @@
 # Bank-Loan-Prediction
 <img src="https://user-images.githubusercontent.com/50701303/120889239-d848d300-c61b-11eb-96fa-38fc941e45f6.jpg" /> 
+
 # **Overview**
 A bank loan is when a bank offer to lend money to customers for a certain time period.
 As a condition of the bank, the borrower will need to pay a certain amount of interest per month, or per year.
